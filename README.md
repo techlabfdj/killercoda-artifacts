@@ -1,10 +1,10 @@
-# Killercodas Scenarios Artifacts
+# Killercoda Scenarios Artifacts
 
-This repository is dedicated to storing the artifacts generated from the Killercodas scenarios. 
+This repository is dedicated to storing the artifacts generated for the Tech-Lab FDJ Killercoda scenarios. 
 
 ## Overview
 
-Killercodas is a project that involves a series of scenarios designed to test, benchmark, and analyze various aspects of software systems. The scenarios are run under different conditions and configurations, using a variety of artifacts.
+Killercoda is a project that involves a series of scenarios designed to test, benchmark, and analyze various aspects of software systems. The scenarios are run under different conditions and configurations, using a variety of artifacts.
 
 ## Structure of the Repository
 
